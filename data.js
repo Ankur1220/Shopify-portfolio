@@ -1,30 +1,5 @@
 const PROJECTS = [
     {
-        title: "QuickStrings",
-        image: "Quickstring-Homepage.png",
-        subtitle: "Sports Equipment Megastore",
-        category: "Sports",
-        color: "green",
-        featured: true,
-        url: "https://quickstring.myshopify.com",
-        displayUrl: "quickstring.myshopify.com",
-        desc: "Large-scale Shopify sports store with 1000+ badminton & racket products, metafield architecture, mega menu navigation, advanced filtering, and a custom-built tension calculator web app.",
-        highlights: [
-            { i: "📦", l: "1000+ SKUs managed" },
-            { i: "🔧", l: "Custom tension calculator" },
-            { i: "🗂️", l: "Shopify Metafields" },
-            { i: "📱", l: "Mega Menu Navigation" }
-        ],
-        tags: [
-            "Metafields",
-            "Mega Menu",
-            "Custom Web App",
-            "Product Filters",
-            "Large Catalog"
-        ],
-        role: "Theme Development + Catalog Architecture",
-    },
-    {
         title: "OLLO",
         image: "Ollo-Homepage.png",
         subtitle: "Premium Fashion Store",
@@ -143,6 +118,31 @@ const PROJECTS = [
             "Mobile"
         ],
         role: "Store Setup + Mobile Optimization",
+    },
+    {
+        title: "QuickStrings",
+        image: "Quickstring-Homepage.png",
+        subtitle: "Sports Equipment Megastore",
+        category: "Sports",
+        color: "green",
+        featured: true,
+        url: "https://quickstring.myshopify.com",
+        displayUrl: "quickstring.myshopify.com",
+        desc: "Large-scale Shopify sports store with 1000+ badminton & racket products, metafield architecture, mega menu navigation, advanced filtering, and a custom-built tension calculator web app.",
+        highlights: [
+            { i: "📦", l: "1000+ SKUs managed" },
+            { i: "🔧", l: "Custom tension calculator" },
+            { i: "🗂️", l: "Shopify Metafields" },
+            { i: "📱", l: "Mega Menu Navigation" }
+        ],
+        tags: [
+            "Metafields",
+            "Mega Menu",
+            "Custom Web App",
+            "Product Filters",
+            "Large Catalog"
+        ],
+        role: "Theme Development + Catalog Architecture",
     },
     {
         title: "9Balls India",
